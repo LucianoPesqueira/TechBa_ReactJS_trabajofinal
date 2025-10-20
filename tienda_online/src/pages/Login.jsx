@@ -39,6 +39,7 @@ function Login() {
                         type="text"
                         name="nombre"
                         value={nombre}
+                        placeholder="usuario1"
                         required 
                         onChange={(e) => setNombre(e.target.value)}
                     />
@@ -54,6 +55,7 @@ function Login() {
                         type="password"
                         name="contrasena"
                         value={contrasena}
+                        placeholder="1234"
                         required 
                         onChange={(e) => setContrasena(e.target.value)}
                     />
