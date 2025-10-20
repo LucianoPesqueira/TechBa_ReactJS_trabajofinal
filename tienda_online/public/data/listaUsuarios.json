@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "usuario1",
+    "contrasena": "1234",
+    "tipo": false,
+    "id": "1"
+  },
+  {
+    "nombre": "usuario2",
+    "contrasena": "123",
+    "tipo": false,
+    "id": "2"
+  },
+  {
+    "nombre": "Luciano",
+    "contrasena": "123",
+    "tipo": false,
+    "id": "3"
+  },
+  {
+    "nombre": "react",
+    "contrasena": "react",
+    "tipo": false,
+    "id": "4"
+  },
+  {
+    "nombre": "algo",
+    "contrasena": "algo123",
+    "tipo": false,
+    "id": "5"
+  }
+]
